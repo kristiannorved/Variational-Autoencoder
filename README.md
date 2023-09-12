@@ -1,2 +1,2 @@
 # Variational-Autoencoder
-A variational autoencoder created for COMP3710 by Kristian.
+A variational autoencoder of the magnetic resonance brain scans available via the preprocessed OASIS dataset. This autoencoder was made for COMP3710.
